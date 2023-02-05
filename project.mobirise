@@ -1,0 +1,204 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "theme": {
+      "name": "luxurym4",
+      "title": "LuxuryM4",
+      "styling": {
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#5bb4ed",
+        "successColor": "#36D88A",
+        "infoColor": "#ff4fe0",
+        "warningColor": "#C1C1C1",
+        "dangerColor": "#feb062",
+        "mainFont": "IBM Plex Sans",
+        "display1Font": "Oswald",
+        "display1Size": 3.5,
+        "display2Font": "IBM Plex Sans",
+        "display2Size": "2",
+        "display5Font": "Oswald",
+        "display5Size": "2",
+        "display7Font": "Oswald",
+        "display7Size": "1",
+        "display4Font": "Oswald",
+        "display4Size": "1.1",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false,
+        "arrowColor": "#444444"
+      },
+      "titlePreset": "Luxury Shop",
+      "nameSelectPreset": "luxuryshop",
+      "presetSourceTheme": "luxurym4",
+      "additionalSetColors": [
+        "#5bb4ed",
+        "#0251e4",
+        "#b900e5",
+        "#de00ff",
+        "#212428",
+        "#878e99",
+        "#191b1f"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "name": "October Sage",
+    "versionFirst": "5.4.1",
+    "siteFonts": [
+      {
+        "css": "'Oswald', sans-serif",
+        "name": "Oswald",
+        "url": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
+      },
+      {
+        "css": "'IBM Plex Sans', sans-serif",
+        "name": "IBM Plex Sans",
+        "url": "https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i"
+      }
+    ],
+    "imageResize": false,
+    "favicon": "@PROJECT_PATH@/assets/images/october-sage-os-ivy.png",
+    "mbrsiteDomain": "cnupil8jjt",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://gabbyandmin.com",
+    "cookiesAlert": false,
+    "gdpr": false,
+    "uniqCompNum": 181,
+    "versionPublish": "5.7.12",
+    "screenshot": "screenshot.png",
+    "publishChangesOnly": false,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "witsec-mailform": false,
+    "usedWebp": false
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "title": "Shop | OCTOBER SAGE",
+        "order": "2",
+        "meta_descr": "",
+        "socialSharingUrl": ""
+      },
+      "components": [
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "\n\n\n\n  <meta charset=\"UTF-8\">\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n  <meta name=\"generator\" content=\"Mobirise v5.0.29, mobirise.com\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, minimum-scale=1\">\n  \n  \n  <title>October Sage</title>\n  <link rel=\"stylesheet\" href=\"assets/tether/tether.min.css\">\n  <link rel=\"stylesheet\" href=\"assets/bootstrap/css/bootstrap.min.css\">\n  <link rel=\"stylesheet\" href=\"assets/bootstrap/css/bootstrap-grid.min.css\">\n  <link rel=\"stylesheet\" href=\"assets/bootstrap/css/bootstrap-reboot.min.css\">\n  <link rel=\"stylesheet\" href=\"assets/dropdown/css/style.css\">\n  <link rel=\"stylesheet\" href=\"assets/socicon/css/styles.css\">\n  <link rel=\"stylesheet\" href=\"assets/theme/css/style.css\">\n  <link rel=\"preload\" as=\"style\" href=\"assets/mobirise/css/mbr-additional.css\"><link rel=\"stylesheet\" href=\"assets/mobirise/css/mbr-additional.css\" type=\"text/css\">\n  \n  \n  \n  \n\n\n  \n  \n\n    <div id=\"myShop\">\n        <a href=\"https://octobersage.myspreadshop.com\">October Sage</a>\n    </div>\n\n\n[JS_CODE_0]\n\n[JS_CODE_1]\n\n<section class=\"footer3 cid-sQdxhoO3JN mbr-reveal\" once=\"footers\" id=\"footer3-t\">\n\n    \n\n    \n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            \n            \n            <div class=\"row row-copirayt\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style mbr-white align-center display-4\">©.</p>\n            </div>\n        </div>\n    </div>\n</section>\n\n\n  [JS_CODE_2]\n  [JS_CODE_3]\n  [JS_CODE_4]\n  [JS_CODE_5]\n  [JS_CODE_6]\n  [JS_CODE_7]\n  [JS_CODE_8]\n  [JS_CODE_9]\n  [JS_CODE_10]\n  [JS_CODE_11]\n  [JS_CODE_12]\n  \n  \n  \n<!-- <div id=\"cookie-dialog\" style=\"display: none;\"><div id=\"cookiesdirective\"><div style=\"position: fixed; top: 0; right: 0; bottom: 0; left: 0; background-color: rgb(0, 0, 0); opacity: 0.8; z-index: 9999;\"></div><div style=\"position: fixed; top: 0; right: 0; bottom: 0; left: 0; display: flex; align-items: center; z-index: 10000\"><div class=\"cookie-wrapper\" style=\"position: relative; width: 100%; max-width: 500px; margin-right: auto; margin-left: auto; padding: 1rem; text-align: center; border-radius: .3rem; box-shadow: 0 10px 40px 0 rgba(0,0,0,0.2); color:#ff9966; background:rgba(0, 0, 0, 0.81);\"><div class=\"mbr-text\"><p class=\"display-7\">THIS WEBSITE MAY NOT VIEW OR PERFORM CORRECTLY ON MICROSOFT EDGE. <br>\n<br>WE SUGGEST GOOGLE CHROME! \n<br></p></div><div class=\"mbr-section-btn\"><a style=\"margin:0; background-color:#ff9966 !important; color:#FFFFFF!important; border-color:#ff9966 !important;;\" class=\"btn btn-sm btn-primary display-7\" id=\"impliedsubmit\">I Understand</a></div></div></div></div></div>\n  <input name=\"cookieData\" type=\"hidden\" data-cookie-customDialogSelector='#cookie-dialog' data-cookie-colorText='#ff9966' data-cookie-colorBg='rgba(0, 0, 0, 0.81)' data-cookie-textButton='I Understand' data-cookie-colorButton='#ff9966' data-cookie-colorLink='#424a4d' data-cookie-underlineLink='true' data-cookie-text=\"THIS WEBSITE MAY NOT VIEW OR PERFORM CORRECTLY ON MICROSOFT EDGE. <br>\n<br>WE SUGGEST GOOGLE CHROME! \n<br>\"> -->\n  \n",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_sourceTheme": "luxurym4",
+          "_anchor": "custom-html-4w",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script>\n    var spread_shop_config = {\n        shopName: 'octobersage',\n        locale: 'us_US',\n        prefix: 'https://octobersage.myspreadshop.com',\n        baseId: 'myShop'\n    };\n</script>",
+            "<script type=\"text/javascript\"\n        src=\"https://octobersage.myspreadshop.com/shopfiles/shopclient/shopclient.nocache.js\">\n</script>",
+            "<script src=\"assets/web/assets/jquery/jquery.min.js\"></script>",
+            "<script src=\"assets/popper/popper.min.js\"></script>",
+            "<script src=\"assets/tether/tether.min.js\"></script>",
+            "<script src=\"assets/bootstrap/js/bootstrap.min.js\"></script>",
+            "<script src=\"assets/web/assets/cookies-alert-plugin/cookies-alert-core.js\"></script>",
+            "<script src=\"assets/web/assets/cookies-alert-plugin/cookies-alert-script.js\"></script>",
+            "<script src=\"assets/smoothscroll/smooth-scroll.js\"></script>",
+            "<script src=\"assets/dropdown/js/nav-dropdown.js\"></script>",
+            "<script src=\"assets/dropdown/js/navbar-dropdown.js\"></script>",
+            "<script src=\"assets/touchswipe/jquery.touch-swipe.min.js\"></script>",
+            "<script src=\"assets/theme/js/script.js\"></script>"
+          ]
+        },
+        {
+          "_name": "afooter2",
+          "_sourceTheme": "structurem5",
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "position": "relative",
+            "margin-top": "-1px",
+            "overflow": "hidden",
+            ".section-border-item": {
+              "background-color": "@borderColor"
+            },
+            ".mbr-text": {
+              "color": "#FFFFFF"
+            },
+            ".media-container-row .mbr-text": {
+              "color": "#000000"
+            }
+          },
+          "_customHTML": "<section class=\"footer2 structurem5\" group=\"Footers\" global once=\"footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Border\" name=\"showBorder\" checked>\n        <input type=\"color\" title=\"Border Color\" name=\"borderColor\" value=\"#fcdb42\" condition=\"showBorder\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background3.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#090f10\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n    <div class=\"section-border-item section-border-item_top\" mbr-if=\"showBorder\"></div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\">\n                    © [JS_CODE_0] OCTOBER SAGE.<br>OCTOBER SAGE is a venture of <a href=\"https://delioenterprises.com\" class=\"text-secondary\" target=\"_blank\" style>DELIO ENTERPRISES</a>.</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_JSplaceholders": [
+            "<script>new Date().getFullYear() > 2010 && document.write(new Date().getFullYear());</script>"
+          ],
+          "_PHPplaceholders": [],
+          "_anchor": "afooter2-4x",
+          "_isUserblock": true,
+          "_cid": "tuWaUa8h0S",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "footers",
+          "_params": {}
+        }
+      ]
+    },
+    "null.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "afooter2",
+          "_sourceTheme": "structurem5",
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "position": "relative",
+            "margin-top": "-1px",
+            "overflow": "hidden",
+            ".section-border-item": {
+              "background-color": "@borderColor"
+            },
+            ".mbr-text": {
+              "color": "#FFFFFF"
+            },
+            ".media-container-row .mbr-text": {
+              "color": "#000000"
+            }
+          },
+          "_customHTML": "<section class=\"footer2 structurem5\" group=\"Footers\" global once=\"footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Border\" name=\"showBorder\" checked>\n        <input type=\"color\" title=\"Border Color\" name=\"borderColor\" value=\"#fcdb42\" condition=\"showBorder\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background3.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#090f10\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n    <div class=\"section-border-item section-border-item_top\" mbr-if=\"showBorder\"></div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\">\n                    © [JS_CODE_0] OCTOBER SAGE.<br>OCTOBER SAGE is a venture of <a href=\"https://delioenterprises.com\" class=\"text-secondary\" target=\"_blank\" style>DELIO ENTERPRISES</a>.</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_JSplaceholders": [
+            "<script>new Date().getFullYear() > 2010 && document.write(new Date().getFullYear());</script>"
+          ],
+          "_PHPplaceholders": [],
+          "_anchor": "afooter2-4x",
+          "_isUserblock": true,
+          "_cid": "tuWaUa8h0S",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "footers",
+          "_params": {}
+        }
+      ]
+    }
+  }
+}
