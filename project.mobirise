@@ -1,84 +1,69 @@
 {
   "settings": {
+    "name": "October Sage",
     "currentPage": "index.html",
     "theme": {
-      "name": "luxurym4",
-      "title": "LuxuryM4",
+      "name": "mobirise5",
+      "title": "Mobirise 5",
+      "titlePreset": "Mobirise 5",
       "styling": {
-        "primaryColor": "#000000",
-        "secondaryColor": "#5bb4ed",
-        "successColor": "#36D88A",
-        "infoColor": "#ff4fe0",
-        "warningColor": "#C1C1C1",
-        "dangerColor": "#feb062",
-        "mainFont": "IBM Plex Sans",
-        "display1Font": "Cormorant",
-        "display1Size": 3.5,
-        "display2Font": "Cormorant",
-        "display2Size": "2",
-        "display5Font": "Cormorant",
-        "display5Size": "2",
-        "display7Font": "Cormorant",
-        "display7Size": "1",
-        "display4Font": "Cormorant",
-        "display4Size": "1.1",
-        "isRoundedButtons": true,
+        "primaryColor": "#6592e6",
+        "secondaryColor": "#ff6666",
+        "successColor": "#40b0bf",
+        "infoColor": "#47b5ed",
+        "warningColor": "#FFE161",
+        "dangerColor": "#ff9966",
+        "mainFont": "Jost",
+        "display1Font": "Jost",
+        "display1Size": 4.6,
+        "display2Font": "Jost",
+        "display2Size": 3,
+        "display5Font": "Jost",
+        "display5Size": 2,
+        "display7Font": "Jost",
+        "display7Size": 1.2,
+        "display4Font": "Jost",
+        "display4Size": 1.1,
+        "isRoundedButtons": false,
+        "isGhostButtonBorder": false,
+        "underlinedLinks": false,
         "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false,
-        "arrowColor": "#444444"
-      },
-      "titlePreset": "Luxury Shop",
-      "nameSelectPreset": "luxuryshop",
-      "presetSourceTheme": "luxurym4",
-      "additionalSetColors": [
-        "#ff4fe0",
-        "#5bb4ed",
-        "#0251e4",
-        "#b900e5",
-        "#de00ff",
-        "#212428",
-        "#878e99"
-      ]
+        "isScrollToTopButton": false
+      }
     },
     "path": "@PROJECT_PATH@",
-    "name": "October Sage",
-    "versionFirst": "5.4.1",
+    "versionFirst": "5.7.12",
     "siteFonts": [
       {
-        "css": "'Oswald', sans-serif",
-        "name": "Oswald",
-        "url": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
-      },
-      {
-        "css": "'IBM Plex Sans', sans-serif",
-        "name": "IBM Plex Sans",
-        "url": "https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i"
+        "css": "'Jost', sans-serif",
+        "name": "Jost",
+        "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "imageResize": false,
-    "favicon": "@PROJECT_PATH@/assets/images/october-sage-os-ivy.png",
-    "mbrsiteDomain": "cnupil8jjt",
+    "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/october-sage-os-ivy-128x140.png",
+    "mbrsiteDomain": "yh5bmzpkjd",
+    "usedWebp": false,
     "robotsSwitcher": false,
-    "sitemapSwitcher": true,
-    "sitemapSwitcherAuto": "on",
-    "siteUrl": "https://gabbyandmin.com",
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 181,
-    "versionPublish": "5.7.12",
-    "screenshot": "screenshot.png",
-    "publishChangesOnly": false,
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "witsec-mailform": false,
-    "usedWebp": false
+    "uniqCompNum": 2,
+    "versionPublish": "5.7.12",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
       "settings": {
-        "title": "Shop | OCTOBER SAGE",
-        "order": "2",
-        "meta_descr": "October Sage is an online fashion company. The brand is committed to quality, comfort, and versatility.",
-        "socialSharingUrl": ""
+        "main": true,
+        "title": "October Sage",
+        "meta_descr": "October Sage is an online fashion company. The brand is committed to quality, comfort, and a bit of whimsy.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
       },
       "components": [
         {
@@ -91,9 +76,7 @@
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_sourceTheme": "luxurym4",
-          "_anchor": "custom-html-4w",
-          "_PHPplaceholders": [],
+          "_sourceTheme": "mobirise5",
           "_JSplaceholders": [
             "<script>\n    var spread_shop_config = {\n        shopName: 'octobersage',\n        locale: 'us_US',\n        prefix: 'https://octobersage.myspreadshop.com',\n        baseId: 'myShop'\n    };\n</script>",
             "<script type=\"text/javascript\"\n        src=\"https://octobersage.myspreadshop.com/shopfiles/shopclient/shopclient.nocache.js\">\n</script>",
@@ -108,7 +91,10 @@
             "<script src=\"assets/dropdown/js/navbar-dropdown.js\"></script>",
             "<script src=\"assets/touchswipe/jquery.touch-swipe.min.js\"></script>",
             "<script src=\"assets/theme/js/script.js\"></script>"
-          ]
+          ],
+          "_PHPplaceholders": [],
+          "_params": {},
+          "_anchor": "custom-html-0"
         },
         {
           "_name": "afooter2",
@@ -135,64 +121,14 @@
               "color": "#000000"
             }
           },
-          "_customHTML": "<section class=\"footer2 structurem5\" group=\"Footers\" global once=\"footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Border\" name=\"showBorder\" checked>\n        <input type=\"color\" title=\"Border Color\" name=\"borderColor\" value=\"#fcdb42\" condition=\"showBorder\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background3.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#090f10\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n    <div class=\"section-border-item section-border-item_top\" mbr-if=\"showBorder\"></div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\"><b>\n                    © [JS_CODE_0] OCTOBER SAGE.</b><br><b>OCTOBER SAGE is a venture of <a href=\"https://delioenterprises.com\" class=\"text-secondary\" target=\"_blank\" style><b>DELIO ENTERPRISES</b></a>.</b></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"footer2 structurem5\" group=\"Footers\" global once=\"footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Border\" name=\"showBorder\" checked>\n        <input type=\"color\" title=\"Border Color\" name=\"borderColor\" value=\"#fcdb42\" condition=\"showBorder\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background3.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#090f10\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n    <div class=\"section-border-item section-border-item_top\" mbr-if=\"showBorder\"></div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\">\n                    © [JS_CODE_0] OCTOBER SAGE.<br>OCTOBER SAGE is a venture of <a href=\"https://delioenterprises.com\" class=\"text-secondary\" target=\"_blank\" style>DELIO ENTERPRISES</a>.</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_JSplaceholders": [
             "<script>new Date().getFullYear() > 2010 && document.write(new Date().getFullYear());</script>"
           ],
           "_PHPplaceholders": [],
-          "_anchor": "afooter2-4x",
+          "_anchor": "afooter2-1",
           "_isUserblock": true,
-          "_cid": "tuWaUa8h0S",
-          "_protectedParams": [],
-          "_global": true,
-          "_once": "footers",
-          "_params": {}
-        }
-      ]
-    },
-    "null.html": {
-      "settings": {
-        "main": true,
-        "title": "null",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": [
-        {
-          "_name": "afooter2",
-          "_sourceTheme": "structurem5",
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "position": "relative",
-            "margin-top": "-1px",
-            "overflow": "hidden",
-            ".section-border-item": {
-              "background-color": "@borderColor"
-            },
-            ".mbr-text": {
-              "color": "#FFFFFF"
-            },
-            ".media-container-row .mbr-text": {
-              "color": "#000000"
-            }
-          },
-          "_customHTML": "<section class=\"footer2 structurem5\" group=\"Footers\" global once=\"footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Border\" name=\"showBorder\" checked>\n        <input type=\"color\" title=\"Border Color\" name=\"borderColor\" value=\"#fcdb42\" condition=\"showBorder\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background3.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#090f10\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n    <div class=\"section-border-item section-border-item_top\" mbr-if=\"showBorder\"></div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\"><b>\n                    © [JS_CODE_0] OCTOBER SAGE.</b><br><b>OCTOBER SAGE is a venture of <a href=\"https://delioenterprises.com\" class=\"text-secondary\" target=\"_blank\" style><b>DELIO ENTERPRISES</b></a>.</b></p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_JSplaceholders": [
-            "<script>new Date().getFullYear() > 2010 && document.write(new Date().getFullYear());</script>"
-          ],
-          "_PHPplaceholders": [],
-          "_anchor": "afooter2-4x",
-          "_isUserblock": true,
-          "_cid": "tuWaUa8h0S",
+          "_cid": "tv8MxwGcKY",
           "_protectedParams": [],
           "_global": true,
           "_once": "footers",
