@@ -5,7 +5,7 @@
       "name": "luxurym4",
       "title": "LuxuryM4",
       "styling": {
-        "primaryColor": "#ffffff",
+        "primaryColor": "#000000",
         "secondaryColor": "#5bb4ed",
         "successColor": "#36D88A",
         "infoColor": "#ff4fe0",
@@ -153,7 +153,7 @@
     "null.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "null",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
