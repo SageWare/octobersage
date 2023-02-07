@@ -2,35 +2,35 @@ body {
   font-family: IBM Plex Sans;
 }
 .display-1 {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Cormorant', sans-serif;
   font-size: 3.5rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 5.6rem;
 }
 .display-2 {
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Cormorant', sans-serif;
   font-size: 2rem;
 }
 .display-2 > .mbr-iconfont {
   font-size: 3.2rem;
 }
 .display-4 {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Cormorant', sans-serif;
   font-size: 1.1rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.76rem;
 }
 .display-5 {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Cormorant', sans-serif;
   font-size: 2rem;
 }
 .display-5 > .mbr-iconfont {
   font-size: 3.2rem;
 }
 .display-7 {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Cormorant', sans-serif;
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -551,7 +551,7 @@ a.text-black:focus {
   color: #ffffff;
 }
 .form-control {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Cormorant', sans-serif;
   font-size: 1rem;
 }
 .form-control > .mbr-iconfont {
