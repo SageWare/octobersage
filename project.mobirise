@@ -53,7 +53,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "witsec-mailform": false,
-    "uniqCompNum": 4,
+    "uniqCompNum": 5,
     "versionPublish": "5.9.0",
     "screenshot": "screenshot.png",
     "global_header_custom": "<meta name=\"keywords\" content=\"HTML, CSS, JavaScript\">\n<meta name=\"author\" content=\"October Sage, Sage Delio, Custom t-shirts, Graphic tees, Organic cotton, Screen printing, Vintage designs, Personalized shirts, Eco-friendly apparel, Limited edition prints, Comfort fit, Unisex tees, Bulk order discounts, Athletic wear, T-shirt mockups, Exclusive designs, Sustainable fashion\">"
@@ -145,8 +145,7 @@
           ]
         },
         {
-          "_name": "afooter2",
-          "_sourceTheme": "structurem5",
+          "alias": false,
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
@@ -156,27 +155,20 @@
             "& when (@bg-type = 'color')": {
               "background-color": "@bg-value"
             },
-            "position": "relative",
-            "margin-top": "-1px",
             "overflow": "hidden",
-            ".section-border-item": {
-              "background-color": "@borderColor"
-            },
-            ".mbr-text": {
-              "color": "#FFFFFF"
-            },
             ".media-container-row .mbr-text": {
               "color": "#000000"
             }
           },
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"footer2 structurem5\" group=\"Footers\" global once=\"footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Border\" name=\"showBorder\">\n        <input type=\"color\" title=\"Border Color\" name=\"borderColor\" value=\"#ffffff\" condition=\"showBorder\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background3.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#090f10\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n    <div class=\"section-border-item section-border-item_top\" mbr-if=\"showBorder\"></div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\"><b><i><a href=\"https://www.facebook.com/octobersage\" class=\"text-primary\" target=\"_blank\"><b>Facebook</b></a>&nbsp;</i></b>|&nbsp;<b><a href=\"https://www.instagram.com/octobersageofficial/\" class=\"text-primary\" target=\"_blank\"><b>Instagram</b></a>&nbsp;</b>| <a href=\"https://twitter.com/OctoberSage\" class=\"text-primary\" target=\"_blank\"><b>Twitter</b></a>&nbsp;|&nbsp;<a href=\"https://www.linkedin.com/company/octobersage/\" class=\"text-primary\" target=\"_blank\"><b>LinkedIn</b></a><br>© [JS_CODE_0] OCTOBER SAGE.<br>OCTOBER SAGE is a venture of <a href=\"https://delioenterprises.com\" class=\"text-secondary\" target=\"_blank\" style><b>DELIO ENTERPRISES</b></a>.</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_name": "footer7",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"footer7\" group=\"Footers\" global once=\"footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background5.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://www.facebook.com/octobersage\" class=\"text-primary\" target=\"_blank\"><b>Facebook</b></a><a href=\"https://www.facebook.com/octobersage\" class=\"text-primary\" target=\"_blank\" style=\"font-weight: bold;\">&nbsp;</a>| <a href=\"https://www.instagram.com/octobersageofficial/\" class=\"text-primary\" target=\"_blank\"><b>Instagram</b> </a>| <a href=\"https://twitter.com/OctoberSage\" class=\"text-primary\" target=\"_blank\"><b>Twitter</b></a> | <a href=\"https://www.linkedin.com/company/octobersage/\" class=\"text-primary\"><b>LinkedIn</b></a><br>© [JS_CODE_0] OCTOBER SAGE.<br>OCTOBER SAGE is a venture of <a href=\"https://delioenterprises.com/\" class=\"text-primary\" target=\"_blank\"><b>DELIO ENTERPRISES</b></a>.<br>\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "tMDjFzwRgc",
+          "_anchor": "footer7-4",
+          "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script>new Date().getFullYear() > 2010 && document.write(new Date().getFullYear());</script>"
           ],
-          "_PHPplaceholders": [],
-          "_anchor": "afooter2-3",
-          "_isUserblock": true,
-          "_cid": "tMDhY2h9Ko",
           "_protectedParams": [],
           "_global": true,
           "_once": "footers",
